@@ -196,3 +196,8 @@ psql:a.sql:42: NOTICE:  PASS
 DO
 philip=# \q
 ```
+
+## github.com code
+
+All of the coe for this is available on github.com at (https://github.com/pschlump/pgextension01)[https://github.com/pschlump/pgextension01]
+
